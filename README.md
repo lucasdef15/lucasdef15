@@ -11,9 +11,9 @@
 - ⚙️ My favorite tech stack right now is Next + Tailwind + Typescript
 
 <div style="display: inline_block" align="center">
-  <a href="https://github.com/YuriSamp">
-  <img height="180em" width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuriSamp&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=30"/>
-  <img height="180em" width="48%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuriSamp&layout=compact&langs_count=7&theme=radical&border_radius=30"/>
+  <a href="https://github.com/lucasdef15">
+  <img height="180em" width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasdef15&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=30"/>
+  <img height="180em" width="48%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasdef15&layout=compact&langs_count=7&theme=radical&border_radius=30"/>
 </div>
   <h3 align='center'>Technologies I'm using at the moment<h3>
 <div style="display: inline_block" align=center><br>
@@ -37,6 +37,6 @@
   <h3 align="center">Where you'll find me</h3>
   <a href = "https://twitter.com/Yuri_Sampa"><img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
    target="_blank"></a>
-  <a href = "mailto:yurisamp123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yurisamp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lucasdef15123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucasdef15/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
