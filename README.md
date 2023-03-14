@@ -1,14 +1,12 @@
 <h1 align = center>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+A+Software+Developer)](https://git.io/typing-svg)
-  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=1000&width=435&lines=HI%2C+I'M+A+SOFTWARE+DEVELOPER)](https://git.io/typing-svg)
 </h1>
 
-- 🤖 I am 20 years
-- 🔭 I'm Learning software development since january 2022.
-- 🖥️ Currently i'm developing some full-stack apps to improve more my skills in a wide scenery.
-- 🦀 I intend to learn rust sometime because glimpse my eyes how much this language is used in industry.
-- ⚙️ My favorite tech stack right now is Next + Tailwind + Typescript
+- 🙋‍♂️ I am 20 years old.
+- 💻 I have been learning software development since January 2022.
+- 🛠️ Currently, I am developing full-stack applications to improve my skills in a variety of settings.
+- 🐍 I plan to learn Python in the near future because of its versatility and popularity in the industry.
+- 🚀 My favorite tech stack right now is Next.js + TypeScript.
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/lucasdef15">
@@ -18,11 +16,9 @@
   <h3 align='center'>Technologies I'm using at the moment<h3>
 <div style="display: inline_block" align=center><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HtML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Tailwind-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
@@ -34,9 +30,7 @@
 ##
 
 <div align="center">
-  <h3 align="center">Where you'll find me</h3>
-  <a href = "https://twitter.com/Yuri_Sampa"><img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-   target="_blank"></a>
-  <a href = "mailto:lucasdef15123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <h3 align="center">Connect with me</h3>
+  <a href = "mailto:lucasdefaria1888@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasdef15/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
