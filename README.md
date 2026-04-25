@@ -1,42 +1,37 @@
 <h1 align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I+am+a+software+developer.)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I+am+Lucas+Faria;Software+Engineer+%7C+Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
-- 🙋‍♂️ I am 26 years old.  
-- 💻 I've been learning software development since October 2022.  
-- 🛠️ Currently, I'm building full-stack applications to deepen my knowledge in different areas and technologies.  
-- 🚀 My favorite tech stack right now is **Next.js + TypeScript**.
-
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/lucasdef15">
-    <img height="180em" width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasdef15&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=30"/>
-    <img height="180em" width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasdef15&layout=compact&langs_count=7&theme=radical&border_radius=30"/>
-</div>
-
-<h3 align='center'>Technologies in Use</h3>
-
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-line.svg">
-  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</div>
-
-##
+- 🙋‍♂️ **27 years old**, based in Ribeirão Preto, Brazil.
+- 💻 Developing software since October 2022, focusing on **scalable architectures** and **clean code**.
+- 🛠️ Currently specializing in **Node.js Ecosystem**, **SQL Databases**, and **Cloud Solutions**.
+- 🚀 Main Stack: **Node.js | TypeScript | Next.js**.
 
 <div align="center">
-  <h3 align="center">Connect with me</h3>
-  <a href="mailto:lucasdefaria1888@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-f-16b2b3113/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/lucasdef15">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdef15&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdef15&layout=compact&langs_count=7&theme=radical&border_radius=10"/>
+  </a>
+</div>
+
+<h3 align='center'>Expertise & Tools</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+<hr>
+
+<div align="center">
+  <h3>Connect with me</h3>
+  <a href="mailto:lucasdefaria1888@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lucas-f-16b2b3113/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
