@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I+am+Lucas+Faria;Software+Engineer+%7C+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I+am+Lucas+Faria;Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
 ### About Me
